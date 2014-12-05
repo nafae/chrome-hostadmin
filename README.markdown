@@ -2,17 +2,9 @@ HostAdmin
 =====================
 Saving your time when you switch domain-ip mapping between different environment
 
-Chrome APP Version
-------------------
-Google banned NPAPI Please use [Chrome WebStore APP Version](https://chrome.google.com/webstore/detail/hostadmin-app/mfoaclfeiefiehgaojbmncmefhdnikeg) instead.
-
-It is true that is not easy to use than a menu bar edition. sad..
-
-
-
 Installing
 -----------------------------
- * [Chrome WebStore APP Version](https://chrome.google.com/webstore/detail/hostadmin-app/mfoaclfeiefiehgaojbmncmefhdnikeg)
+ * [Chrome WebStore](https://chrome.google.com/webstore/detail/oklkidkfohahankieehkeenbillligdn)
  * [Firefox AddonSite](https://addons.mozilla.org/firefox/addon/hostadmin)
  * [Download from Google Code](http://code.google.com/p/fire-hostadmin/downloads/list)
 
